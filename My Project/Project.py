@@ -3,7 +3,6 @@ from tkinter import ttk
 
 class win1 :
     def NewWin():
-
         nw = Tk()
         nw.title('รูปสี่เหลี่ยมจัตุรัส')
         nw.geometry('500x500')
